@@ -31,4 +31,4 @@ Credit to [Oceanity](https://github.com/Oceanity/Oceanitys-MMR-Music/) for the i
 
 ### Cartoons
 
-- [Powerpuff Girls Ending Credits Theme](https://github.com/queensnopea/snopea-mmrs/blob/main/mmrs/ppg-endcredits.mmrs) [▶️](https://github.com/queensnopea/snopea-mmrs/blob/main/ogg/ppg-endcredits.ogg)
+- [Powerpuff Girls Ending Credits Theme](https://github.com/queensnopea/snopea-mmrs/raw/main/mmrs/ppg-endcredits.mmrs) [▶️](https://github.com/queensnopea/snopea-mmrs/raw/main/ogg/ppg-endcredits.ogg)
