@@ -17,7 +17,7 @@ Credit to [Oceanity](https://github.com/Oceanity/Oceanitys-MMR-Music/) for the i
 
 ### Monster Hunter: World
 
-- Seliana Theme (Day)
+- [Seliana Theme (Day)](https://github.com/queensnopea/snopea-mmrs/raw/main/mmrs/mhw-selianaday.mmrs) [▶️](https://github.com/queensnopea/snopea-mmrs/raw/main/ogg/mhw-selianaday.ogg)
 - Seliana Theme (Night)
 - Rotten Vale Battle Theme
 
@@ -27,7 +27,7 @@ Credit to [Oceanity](https://github.com/Oceanity/Oceanitys-MMR-Music/) for the i
 
 ### Psychonauts 2
 
-- Fatherland Follies
+- [Fatherland Follies](https://github.com/queensnopea/snopea-mmrs/raw/main/mmrs/psychonauts2-fatherlandfollies.mmrs)
 
 ### Cartoons
 
