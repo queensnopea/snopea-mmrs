@@ -13,7 +13,7 @@ Credit to [Oceanity](https://github.com/Oceanity/Oceanitys-MMR-Music/) for the i
 
 ### Dustforce
 
-- 50 FPS Forest
+- [50 FPS Forest](https://github.com/queensnopea/snopea-mmrs/raw/main/mmrs/dustforce-fiftyfpsforest.mmrs) [▶️](https://github.com/queensnopea/snopea-mmrs/raw/main/ogg/dustforce-fiftyfpsforest.ogg)
 
 ### Monster Hunter: World
 
@@ -23,11 +23,11 @@ Credit to [Oceanity](https://github.com/Oceanity/Oceanitys-MMR-Music/) for the i
 
 ### Sheepo
 
-- Boss Fight
+- [Boss Fight](https://github.com/queensnopea/snopea-mmrs/raw/main/mmrs/sheepo-bossfight.mmrs) [▶️](https://github.com/queensnopea/snopea-mmrs/raw/main/ogg/sheepo-bossfight.ogg)
 
 ### Psychonauts 2
 
-- [Fatherland Follies](https://github.com/queensnopea/snopea-mmrs/raw/main/mmrs/psychonauts2-fatherlandfollies.mmrs)
+- [Fatherland Follies](https://github.com/queensnopea/snopea-mmrs/raw/main/mmrs/psychonauts2-fatherlandfollies.mmrs) [▶️](https://github.com/queensnopea/snopea-mmrs/raw/main/ogg/psychonauts2-fatherlandfollies.ogg)
 
 ### Cartoons
 
