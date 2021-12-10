@@ -19,7 +19,7 @@ Credit to [Oceanity](https://github.com/Oceanity/Oceanitys-MMR-Music/) for the i
 
 - [Seliana Theme (Day)](https://github.com/queensnopea/snopea-mmrs/raw/main/mmrs/mhw-selianaday.mmrs) [▶️](https://github.com/queensnopea/snopea-mmrs/raw/main/ogg/mhw-selianaday.ogg)
 - Seliana Theme (Night)
-- Rotten Vale Battle Theme
+- [Rotten Vale Battle Theme](https://github.com/queensnopea/snopea-mmrs/raw/main/mmrs/mhw-rottenvalebattle.mmrs) [▶️](https://github.com/queensnopea/snopea-mmrs/raw/main/ogg/mhw-rottenvalebattle.ogg)
 
 ### Sheepo
 
