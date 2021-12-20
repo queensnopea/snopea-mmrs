@@ -8,6 +8,7 @@ Credit to [Oceanity](https://github.com/Oceanity/Oceanitys-MMR-Music/) for the i
 ### A Hat in Time
 
 - [Main Theme](https://github.com/queensnopea/snopea-mmrs/raw/main/mmrs/ahit-maintheme.mmrs) [▶️](https://github.com/queensnopea/snopea-mmrs/raw/main/ogg/ahit-maintheme.ogg)
+  - WARNING: This track uses bank 23 and overwrites some of the "unused" instruments referred to in [this guide](https://github.com/isghj5/mm-rando/wiki/Custom-Instrument-Set-Creation#stuff-able-banks-sorted-by-percussion-and-slot) so if it's mixed into a seed that uses vanilla bank 23 then there may be issues.
 
 ### Dustforce
 
