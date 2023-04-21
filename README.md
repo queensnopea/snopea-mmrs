@@ -8,10 +8,15 @@ Credit to [Oceanity](https://github.com/Oceanity/Oceanitys-MMR-Music/) for the i
 ### A Hat in Time
 
 - [Main Theme](https://github.com/queensnopea/snopea-mmrs/raw/main/mmrs/ahit-maintheme.mmrs) [▶️](https://github.com/queensnopea/snopea-mmrs/raw/main/ogg/ahit-maintheme.ogg)
+- [Timepiece Fanfare](https://github.com/queensnopea/snopea-mmrs/raw/main/mmrs/ahit-FANFARE-timepiece.mmrs) [▶️](https://github.com/queensnopea/snopea-mmrs/raw/main/ogg/ahit-FANFARE-timepiece.ogg)
+
+### Donkey Kong 64
+
+- [Monkey Smash](https://github.com/queensnopea/snopea-mmrs/raw/main/mmrs/dk64-monkeysmash.mmrs) [▶️](https://github.com/queensnopea/snopea-mmrs/raw/main/ogg/dk64-monkeysmash.ogg)
 
 ### Dustforce
 
-- [50 FPS Forest](https://github.com/queensnopea/snopea-mmrs/raw/main/mmrs/dustforce-fiftyfpsforest.mmrs) [▶️](https://github.com/queensnopea/snopea-mmrs/raw/main/ogg/dustforce-fiftyfpsforest.ogg) [📺](https://www.youtube.com/watch?v=luZNEYPsAuY)
+- [Fifty FPS Forest](https://github.com/queensnopea/snopea-mmrs/raw/main/mmrs/dustforce-fiftyfpsforest.mmrs) [▶️](https://github.com/queensnopea/snopea-mmrs/raw/main/ogg/dustforce-fiftyfpsforest.ogg) [📺](https://www.youtube.com/watch?v=luZNEYPsAuY)
 
 ### Miscellaneous Cartoons
 
@@ -19,9 +24,8 @@ Credit to [Oceanity](https://github.com/Oceanity/Oceanitys-MMR-Music/) for the i
 
 ### Monster Hunter: World
 
-- [Seliana Theme (Day)](https://github.com/queensnopea/snopea-mmrs/raw/main/mmrs/mhw-selianaday.mmrs) [▶️](https://github.com/queensnopea/snopea-mmrs/raw/main/ogg/mhw-selianaday.ogg)
-- Seliana Theme (Night) 🚧 WIP 🚧
 - [Rotten Vale Battle Theme](https://github.com/queensnopea/snopea-mmrs/raw/main/mmrs/mhw-rottenvalebattle.mmrs) [▶️](https://github.com/queensnopea/snopea-mmrs/raw/main/ogg/mhw-rottenvalebattle.ogg)
+- [Seliana Theme (Day)](https://github.com/queensnopea/snopea-mmrs/raw/main/mmrs/mhw-selianaday.mmrs) [▶️](https://github.com/queensnopea/snopea-mmrs/raw/main/ogg/mhw-selianaday.ogg)
 
 ### Psychonauts 2
 
@@ -30,3 +34,30 @@ Credit to [Oceanity](https://github.com/Oceanity/Oceanitys-MMR-Music/) for the i
 ### Sheepo
 
 - [Boss Fight](https://github.com/queensnopea/snopea-mmrs/raw/main/mmrs/sheepo-bossfight.mmrs) [▶️](https://github.com/queensnopea/snopea-mmrs/raw/main/ogg/sheepo-bossfight.ogg)
+
+## 🚧 Works in Progress 🚧
+I thought it would be nice to share which songs I've started but not finished here too, but I've got far to many unfinished projects so I'm making a separate section here for that list so it doesn't clog up the more important download information. I'll attach links to YouTube uploads of the original versions with a 🎧 in case anyone is curious in the meantime.
+
+#### A Hat in Time
+- Title Theme [🎧](https://www.youtube.com/watch?v=hQrYhnR-qu8)
+- No More Mafia Boss [🎧](https://www.youtube.com/watch?v=qcuXHfAUHvM)
+
+#### Dustforce
+- 9-Bit Expedition [🎧](https://www.youtube.com/watch?v=iO7FlB_xpzw)
+  - This one is obviously not suited to MM's set of available instruments, but I'd like to get something working if I can.
+- It's Not Supposed To Be Snowing [🎧](https://www.youtube.com/watch?v=kluv-1SVIbg)
+- The Magnetic Tree [🎧](https://www.youtube.com/watch?v=4fBQDzRvCTs)
+
+#### Katamari Damacy
+- Lonely Rolling Star [🎧](https://www.youtube.com/watch?v=7_QydNXI_ok)
+  - Similar to 9-Bit Expedition, I'm not sure if I'll be able to come up with a sound that satisfies me because of MM's instrument set but I want to try.
+
+#### Monster Hunter: World
+- Seliana Theme (Night) [🎧](https://www.youtube.com/watch?v=qj9BL8VjrpA)
+
+#### Splatoon
+- Eight-Legged Advance [🎧](https://www.youtube.com/watch?v=T0y9gCHAJkk)
+
+#### Webbed
+- Hello, Little Spider [🎧](https://www.youtube.com/watch?v=ktcGfGW3KrA)
+  - Almost done with this one, and it'll be a dynamic track that brings the bass/drums in when near enemies/on Epona/etc.
